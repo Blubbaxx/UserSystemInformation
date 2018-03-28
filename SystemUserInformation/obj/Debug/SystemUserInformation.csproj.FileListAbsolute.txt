@@ -1,0 +1,15 @@
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\bin\Debug\SystemUserInformation.exe.config
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\bin\Debug\SystemUserInformation.exe
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\bin\Debug\SystemUserInformation.pdb
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.csprojResolveAssemblyReference.cache
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\MainWindow.g.cs
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\App.g.cs
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation_MarkupCompile.cache
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation_MarkupCompile.lref
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\MainWindow.baml
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.g.resources
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.Properties.Resources.resources
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.csproj.GenerateResource.Cache
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.csproj.CoreCompileInputs.cache
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.exe
+c:\users\eg013504\source\repos\SystemUserInformation\SystemUserInformation\obj\Debug\SystemUserInformation.pdb
